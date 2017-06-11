@@ -1,0 +1,2 @@
+#AI_argumentation_framework_basic_methods
+This library contains all functions needed to produce a not self-conflicting, strongly-connected graph. Later CUDA program will be implemented based on this lib.
